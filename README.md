@@ -1,2 +1,2 @@
 # cpp-atm-project
-This is a simple c++ atm project for fun. 
+this is a simple concept code of an atm machine's billing system. totally begginer project of mine.
